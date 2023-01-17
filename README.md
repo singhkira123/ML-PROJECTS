@@ -13,7 +13,11 @@ pip install -r requirements.txt
 ```bash
 python main.py
 ```
+<<<<<<< HEAD
 This changes made in neuro lab
 
 ## DOWNLOAD DATASET
 "https://github.com/singhkira123/ML-PROJECTS/blob/main/aps_failure_training_set1.csv"
+=======
+This File is edited by kiran in github website.
+>>>>>>> a58c5f4667a4187a82102e0be08f7ddb65d34be1
